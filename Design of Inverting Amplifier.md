@@ -1,3 +1,4 @@
+
 # EC1421 - 19EC421 - Analysis-and-Design-of-Analog-ICs
 # Design of Inverting Amplifier
 
@@ -30,11 +31,12 @@ Choose  R1 = 1kΩ, Rf=10kΩ
 
 ## CIRCUIT DIAGRAM:
 
- paste your circuit diagram
+ <img width="1080" height="1136" alt="image" src="https://github.com/user-attachments/assets/8f0b7d10-d38b-4c48-9027-8f1158c143df" />
 
 ## MODEL GRAPH:
 
- Paste your model graph from observation
+<img width="1080" height="748" alt="image" src="https://github.com/user-attachments/assets/9773848f-8fa0-4405-9ba7-384908bb035d" />
+
 
 ## PROCEDURE:
  
@@ -49,16 +51,20 @@ Choose  R1 = 1kΩ, Rf=10kΩ
    
 ## TABULATION:
 
- paste your tabulation 
+ 
+<img width="1080" height="664" alt="image" src="https://github.com/user-attachments/assets/dbedf97d-4415-4656-9d43-6efc052bb16a" />
 
 ## CALCULATIONS:
+<img width="972" height="1600" alt="image" src="https://github.com/user-attachments/assets/f1d09001-f209-47c2-a40b-ee142c053254" />
+
 
  
 
 ## GRAPH:
+<img width="1312" height="827" alt="image" src="https://github.com/user-attachments/assets/b4118b81-7f4a-4392-ad54-25d718dbe988" />
+
 
 
 
 ## RESULT:
 Thus the Inverting is designed and their performance was successfully tested using op-amp IC 741. 
-
