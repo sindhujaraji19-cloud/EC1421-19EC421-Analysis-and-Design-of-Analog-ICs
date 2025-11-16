@@ -1,3 +1,4 @@
+
 # EC1421 - 19EC421 - Analysis-and-Design-of-Analog-ICs
 # Design of Integrator using Op-amp.
 
@@ -41,10 +42,14 @@ We get , R1 =  and hence Rf =
 
 ~~~
 ## CIRCUIT DIAGRAM:
+<img width="1080" height="937" alt="image" src="https://github.com/user-attachments/assets/305ecd07-7cd5-4cf1-8016-f142d8b3c127" />
+
 
 
 
 ## MODEL GRAPH
+<img width="1023" height="1600" alt="image" src="https://github.com/user-attachments/assets/4f8ea4ea-b7a2-4279-87a8-878b2d75f449" />
+
 
 
 
@@ -58,10 +63,16 @@ input voltage is applied to the inverting input terminal of the Op- Amp.
 are plotted in a graph sheet.
 
 ## TABULATION:
+<img width="1080" height="820" alt="image" src="https://github.com/user-attachments/assets/a275d5ca-019e-43ba-825a-20ab01a73540" />
+
 
 
 
 ## GRAPH:
+<img width="1074" height="1600" alt="image" src="https://github.com/user-attachments/assets/faf5722e-c6e8-4e65-bae7-8e3704d2d5dd" />
+<img width="1080" height="1501" alt="image" src="https://github.com/user-attachments/assets/107a2e29-e55f-433e-8844-c60ba950e1c7" />
+
+
 
 
 
