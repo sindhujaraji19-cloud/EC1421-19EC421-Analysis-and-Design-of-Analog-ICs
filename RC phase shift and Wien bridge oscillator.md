@@ -1,3 +1,4 @@
+
 # EC1421-19EC421-Analysis-and-Design-of-Analog-ICs
 ## RC PHASE SHIFT AND WIEN BRIDGE OSCILLATOR
 
@@ -50,4 +51,3 @@ The frequency of oscillation is given by fo = 1/2πRC
 
 ## RESULT:
 Thus the RC Phase Shift and Wien Bridge oscillators are designed and tested using op-amp IC 741.
-
