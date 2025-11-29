@@ -4,7 +4,7 @@
 
 ## AIM:
 
-To design and construct a inverting amplifier using op-amp(IC-741). 
+To design and construct a inverting amplifier using op-amp(IC-741).
 
 ## APPARATUS REQUIRED:
 
