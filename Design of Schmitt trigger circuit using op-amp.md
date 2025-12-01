@@ -1,53 +1,44 @@
-
 # EC1421-19EC421-Analysis-and-Design-of-Analog-ICs
-# NON-INVERTING AMPLIFIER
+# SCHMITT TRIGGER 
 
 ## AIM:
-To design and construct a inverting, non- inverting and differential amplifiers.
+To design the Schmitt trigger circuit using Op-amp IC 741.
 
 ## APPARATUS REQUIRED:
-<img width="959" height="257" alt="image" src="https://github.com/user-attachments/assets/018af22f-288a-4079-bbda-fdafa858db69" />
+<img width="920" height="241" alt="image" src="https://github.com/user-attachments/assets/caa7bce6-7525-4aef-bc1f-005959271f03" />
 
 ## THEORY:
-## NON - INVERTING AMPLIFIER:
-If signal is applied to the non-inverting input terminal of op-amp without inverting the input signal such a circuit is called non-inverting amplifier. Here the output is feedback to the inverting input terminal. The phase shift of input signal does not occur in non-inverting terminal.
-The circuit closed-loop voltage gain is
-
-ACL = 1 + ( RF / R1)
+The circuit shows an inverting comparator with positive feedback. This circuit converts irregular shaped wave forms to a square wave or pulse. The circuit is known as the Schmitt trigger (or) squaring circuit. The input voltage Vin changes the state of the output Vo every time it exceeds certain voltage levels called the upper threshold voltage VUT and lower threshold voltage VLT.
+When Vo= - Vsat, the voltage across R1 is referred to as lower threshold voltage, VLT. When Vo=+Vsat, the voltage across R1 is referred to as upper threshold voltage VUT. The comparator with positive feedback is said to exhibit hysteresis, a dead band condition.
 
 ## CIRCUIT DIAGRAM:
-<img width="1080" height="1210" alt="image" src="https://github.com/user-attachments/assets/82782cff-8659-4032-b3dc-5fb8b2226d44" />
+![WhatsApp Image 2025-11-23 at 12 56 47 PM](https://github.com/user-attachments/assets/9a2afdee-5702-4ff4-b809-cf78dc9c6dbc)
 
 
 ## MODEL GRAPH:
-<img width="1080" height="1031" alt="image" src="https://github.com/user-attachments/assets/6197b97a-4ff9-4043-af32-12b84630e3cd" />
+![WhatsApp Image 2025-11-23 at 12 57 05 PM](https://github.com/user-attachments/assets/52d6adf9-ccf9-4a8d-b600-1e7c5e2e8118)
 
 
 ## PROCEDURE:
-### Non-Inverting Amplifier
-1. Select R1 as a constant value and choose a value of Rf.
-2. Connect the circuit as per as the circuit diagram.
-3. Apply the constant amplitude input voltage to the circuit.
-4. Measure the output voltage amplitude for different value of V1 from DSO.
-5. Calculate the practical Voltage for different value of V1& compare it with theoretical output.
-6. Practical gain & theoretical voltage should be approximately equal.
-7. Plot the graph of the input wave versus output wave for any one practical case.
+1. Design the value of circuit components and select VUT & VLT as given in the design procedure.
+2. Connect the circuit as shown in the circuit diagram.
+3. Apply the input signal to the input terminal of op-amp & set VUT & VLT values.
+4. Note down the readings from the output waveform.
+5. Plot the graph & show the relationship between Input sine wave & Output
    
 ## DESIGN:
-<img width="364" height="160" alt="image" src="https://github.com/user-attachments/assets/d96a8dca-c14f-4be2-995d-c8b29d9ce178" />
+<img width="953" height="586" alt="image" src="https://github.com/user-attachments/assets/1d2c221f-bb9f-4a6e-bceb-e7ecbceb4e38" />
 
 ## TABULATION:
-<img width="1080" height="664" alt="image" src="https://github.com/user-attachments/assets/167c3105-07ee-41d9-847e-8509adb6e17d" />
+![WhatsApp Image 2025-11-23 at 12 57 26 PM](https://github.com/user-attachments/assets/9c46779b-9d9c-4ddb-a2c3-ba736b5fcdcc)
 
 
-
-## CALCULATIONS:
-<img width="972" height="1600" alt="image" src="https://github.com/user-attachments/assets/6e9864e7-a9c1-447b-8b87-17bc4975743d" />
 
 
 ## GRAPH:
-<img width="1371" height="1080" alt="image" src="https://github.com/user-attachments/assets/8547e32d-4aca-437e-8a23-0034978e55c5" />
+![WhatsApp Image 2025-11-23 at 12 57 44 PM](https://github.com/user-attachments/assets/c0f42178-ee1c-4c21-8adf-ed8c8be00ab3)
 
 
 ## RESULT:
-Thus the Non-Inverting Amplifier are designed and their performance was successfully tested using op-amp IC 741.
+Thus a Schmitt trigger is designed and tested using op-amp IC 741.
+
